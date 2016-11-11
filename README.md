@@ -1,2 +1,2 @@
 # hello-world
-This is a test repository where I can test GitHub
+This is terrible test repository where I can play with GitHub
